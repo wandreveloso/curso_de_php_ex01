@@ -6,6 +6,6 @@
     //O echo imprime o conteúdo na tela
     //Após o echo eu posso colocar códigos HTML
     //Basta colocar este arquivo na pasta /var/www/html e abrir no navegador em localhost/index.php
-    echo "Wandré Veloso"
+    echo "Wandré Veloso";
 
 ?>
